@@ -3,6 +3,8 @@ __pycache__/
 *.py[cod]
 *$py.class
 secrets.json
+ssl/cert
+ssl/keyfile
 
 # C extensions
 *.so
